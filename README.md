@@ -38,5 +38,5 @@ Neste momento, sou aluno desta escola e estou a formar-me nesta área incrível,
 Todos estes ficheiros são de minha autoria e não são transferiveis nem os disponibilizarei. 
 Para analizares basta entrares em `<>Code` e analizares o projeto.
 
-Para alguma duvida contacte via email o seguinte email: 
-<p>**guilhermeatavares89@gmail.com**</p>
+Para alguma duvida contacte via email o seguinte email:
+**guilhermeatavares89@gmail.com**
