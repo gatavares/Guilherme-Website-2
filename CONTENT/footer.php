@@ -12,6 +12,7 @@
                         <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=formacao"
                                 class="nav-link p-0 text-light">FORMAÇÃO ACADÉMICA</a>
                         </li>
+                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=progracao"
                                 class="nav-link p-0 text-light">PERCURSO PROFISSIONAL - PROGRAMAÇÃO</a>
                         </li>
                         <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=outrosproj"
