@@ -42,7 +42,7 @@
                     </div>
                     <div class="col-12 col-md-5 text-center">
                         <div class="p-3 Foto">
-                            <img src="ASSETS/Screenshot_1.png" alt="">
+                            <img src="ASSETS/Screenshot_1.png" alt="Erro a carregar: Foto Guilherme">
                         </div>
                     </div>
                 </div>

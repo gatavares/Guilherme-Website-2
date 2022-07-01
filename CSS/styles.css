@@ -71,7 +71,7 @@ nav .container-fluid {
 }
 
 .redes a:hover {
-    color: #270082;
+    color: #0489c9;
 }
 
 .redesMargin {
@@ -162,6 +162,10 @@ nav .container-fluid {
     -webkit-text-fill-color: transparent;
 }
 
+#textErro {
+    margin-bottom: 15%;
+}
+
 /*
 ------------------------------------------------------------------
 -------------------------  STYLES HOME   -------------------------
@@ -188,16 +192,48 @@ nav .container-fluid {
 }
 
 .Foto img {
-    width: 70%;
+    width: 80%;
     min-width: 50%;
     border-radius: 7px;
 }
 
 .homeText p {
-    margin-bottom: 5px;
-    text-indent: 12px;
+    font-size: 16px;
 }
 
-.homeText p span{
+.homeText p span {
     font-weight: 600;
+}
+
+
+/*
+------------------------------------------------------------------
+------------------------  STYLES FOOTER   ------------------------
+------------------------------------------------------------------
+*/
+
+footer {
+    background: rgb(26, 26, 64);
+    background: linear-gradient(60deg, rgba(26, 26, 64, 1) 5%, rgba(74, 71, 163, 1) 47%, rgba(244, 176, 199, 1) 100%);
+    border-top: solid 2px #aaaa;
+    color: #fff;
+    margin-top: 80px;
+}
+
+footer .container-fluid {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+footer .container-fluid .row {
+    --bs-gutter-x: 0 !important;
+    --bs-gutter-y: 0 !important;
+}
+
+footer .redesmargin {
+    margin-right: 25px;
+}
+
+footer .links .text-light:hover {
+    color: #FA58B6 !important;
 }
