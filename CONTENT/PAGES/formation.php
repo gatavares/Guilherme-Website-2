@@ -1,9 +1,9 @@
 <div class="formacao">
-    <section class="homeContent">
-        <div class="homeTitle text-center">
+    <section class="formacaoContent">
+        <div class="Titles text-center">
             <h2>FORMAÇÃO ACADÉMICA</h2>
         </div>
-        <div class="homeText">
+        <div class="Text">
             <div class="container">
                 <div class="row g-5">
                     <div class="col-12 col-md-7">

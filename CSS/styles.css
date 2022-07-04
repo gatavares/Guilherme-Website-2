@@ -38,6 +38,7 @@ nav .container-fluid {
 .navbar-topFix {
     position: fixed;
     top: 0;
+    z-index: 100;
     width: 100%;
     font-family: 'Archivo', sans-serif;
 }
@@ -163,7 +164,7 @@ nav .container-fluid {
 }
 
 #textErro {
-    margin-bottom: 15%;
+    margin-bottom: 15%; 
 }
 
 /*
@@ -176,12 +177,12 @@ nav .container-fluid {
     font-family: 'Open Sans', sans-serif;
 }
 
-.homeTitle {
+.Titles {
     margin-top: 25px;
     margin-bottom: 30px;
 }
 
-.homeTitle h2 {
+.Titles h2 {
     font-size: 35px;
     font-weight: 300;
     background: rgb(65, 60, 105);
@@ -197,11 +198,11 @@ nav .container-fluid {
     border-radius: 7px;
 }
 
-.homeText p {
+.Text p {
     font-size: 16px;
 }
 
-.homeText p span {
+.Text p span {
     font-weight: 600;
 }
 

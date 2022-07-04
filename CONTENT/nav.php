@@ -18,11 +18,11 @@
                         Percurso Profissional
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Programação</a></li>
+                        <li><a class="dropdown-item" href="http://localhost/Guilherme-Website/index.php?p=programacao">Programação</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="http://localhost/Guilherme-Website/index.php?p=outrosProjets">Outros Projetos</a></li>
+                        <li><a class="dropdown-item" href="http://localhost/Guilherme-Website/index.php?p=outrosproj">Outros Projetos</a></li>
                     </ul>
                 </li>
                 <li class="nav-item me-sm-0 me-lg-3">

@@ -15,7 +15,7 @@
         else if($pagina == "projetos")
             include('CONTENT/PAGES/projetos.php');  
         else if($pagina == "contacto")
-            include('CONTENT/PAGES/formation.php');
+            include('CONTENT/PAGES/contacto.php');
         else
             include('CONTENT/PAGES/404.php');
     }else{
