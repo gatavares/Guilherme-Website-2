@@ -192,6 +192,16 @@ nav .container-fluid {
     -webkit-text-fill-color: transparent;
 }
 
+.SubTitles h2 {
+    font-size: 25px;
+    font-weight: 600;
+    background: rgb(65, 60, 105);
+    background: linear-gradient(60deg, rgba(65, 60, 105, 1) 0%, rgba(173, 98, 170, 1) 76%, rgba(244, 176, 199, 1) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .Foto img {
     width: 80%;
     min-width: 50%;
@@ -204,6 +214,30 @@ nav .container-fluid {
 
 .Text p span {
     font-weight: 600;
+}
+
+.Text p a span {
+    font-weight: 600;
+    text-decoration: underline;
+}
+.Text p a:hover {
+    color: #FA58B6 !important;
+}
+
+
+.divider{
+    margin-bottom: 70px;
+}
+
+.SubTitles .SubTitle2 h2 {
+    font-size: 25px;
+    font-weight: 600;
+    background: rgb(65, 60, 105);
+    background: linear-gradient(60deg, rgba(65, 60, 105, 1) 0%, rgba(173, 98, 170, 1) 76%, rgba(244, 176, 199, 1) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: -50px;
 }
 
 
