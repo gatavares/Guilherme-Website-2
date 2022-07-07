@@ -81,7 +81,7 @@
                             <p>
                                 A <span>Fisio Respira</span> é um projeto revolucionário no mundo, desenvolvido por mim
                                 e pela
-                                <a href="" target="" rel="noopener noreferrer"><br><span>Mariana Gabriel</span></a>.
+                                <a href="https://github.com/Mariana454" target="_blank"><br><span>Mariana Gabriel</span></a>.
                                 É a primeira aplicação/pagina de fisioterapia respiratória, com acompanhamento
                                 personalizado e com avaliações periódicas de todos os utentes.
                             </p>
