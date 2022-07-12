@@ -9,11 +9,11 @@
         else if($pagina == "programacao")
             include('CONTENT/PAGES/programacao.php');
         else if($pagina == "outrosproj")
-            include('CONTENT/PAGES/otherProjects.php');
+            include('CONTENT/PAGES/projetos.php');
         else if($pagina == "curriculo")
             include('CONTENT/PAGES/curriculo.php');
-        else if($pagina == "projetos")
-            include('CONTENT/PAGES/projetos.php');  
+        else if($pagina == "hobbies")
+            include('CONTENT/PAGES/hobbies.php');  
         else if($pagina == "contacto")
             include('CONTENT/PAGES/contacto.php');
         else

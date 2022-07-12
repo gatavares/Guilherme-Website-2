@@ -7,22 +7,22 @@
                 <div class="col-12 col-lg-4 ms-4 ms-lg-0 mt-4 mt-lg-0">
                     <h5>Acesso Rapido</h5>
                     <ul class="nav flex-column links">
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=home"
+                        <li class="nav-item mb-2"><a href="index.php?p=home"
                                 class="nav-link p-0 text-light">Início</a></li>
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=formacao"
+                        <li class="nav-item mb-2"><a href="index.php?p=formacao"
                                 class="nav-link p-0 text-light">FORMAÇÃO ACADÉMICA</a>
                         </li>
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=programacao"
+                        <li class="nav-item mb-2"><a href="index.php?p=programacao"
                                 class="nav-link p-0 text-light">PERCURSO PROFISSIONAL - PROGRAMAÇÃO</a>
                         </li>
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=outrosproj"
+                        <li class="nav-item mb-2"><a href="index.php?p=outrosproj"
                                 class="nav-link p-0 text-light">PERCURSO PROFISSIONAL - OUTROS PROJETOS</a>
                         </li>
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=curriculo"
+                        <li class="nav-item mb-2"><a href="index.php?p=curriculo"
                                 class="nav-link p-0 text-light">CURRICULO</a></li>
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=projetos"
-                                class="nav-link p-0 text-light">PROJETOS</a></li>
-                        <li class="nav-item mb-2"><a href="http://localhost/Guilherme-Website/index.php?p=contacto"
+                        <li class="nav-item mb-2"><a href="index.php?p=projetos"
+                                class="nav-link p-0 text-light">HOBBIES</a></li>
+                        <li class="nav-item mb-2"><a href="index.php?p=contacto"
                                 class="nav-link p-0 text-light">CONTACTO</a></li>
                     </ul>
                 </div>

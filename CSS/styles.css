@@ -49,6 +49,17 @@ nav .container-fluid {
     font-family: 'Montserrat', sans-serif;
 }
 
+@media screen and (max-width: 459px) {
+    .navbar-top {
+        margin-top: 90.5px;
+        width: 105%;
+    }
+
+    nav .redes {
+        margin-left: 25px;
+    }
+}
+
 .icon-logo {
     margin-left: 25px;
     font-size: 25px;
@@ -164,7 +175,7 @@ nav .container-fluid {
 }
 
 #textErro {
-    margin-bottom: 15%; 
+    margin-bottom: 15%;
 }
 
 /*
@@ -220,12 +231,13 @@ nav .container-fluid {
     font-weight: 600;
     text-decoration: underline;
 }
+
 .Text p a:hover {
     color: #FA58B6 !important;
 }
 
 
-.divider{
+.divider {
     margin-bottom: 70px;
 }
 
@@ -239,6 +251,49 @@ nav .container-fluid {
     -webkit-text-fill-color: transparent;
     margin-bottom: -50px;
 }
+
+
+/*
+------------------------------------------------------------------
+------------------------ STYLES CURRICULO ------------------------
+------------------------------------------------------------------
+*/
+#curriculo {
+    width: 70%;
+    height: 70%;
+}
+
+.curriculo{
+    margin-top: 80px;
+}
+
+
+
+
+/*
+------------------------------------------------------------------
+------------------------ STYLES CAROUSEL -------------------------
+------------------------------------------------------------------
+*/
+
+.carousel-caption {
+    padding-bottom: 0 !important;
+    margin-top: 50px !important;
+    color: white;
+    text-shadow: -0.5px -0.5px 0 #000, 0.5px -0.5px 0 #000, -0.5px 0.5px 0 #000, 0.5px 0.5px 0 #000;
+
+}
+
+.carousel-caption h6 {
+    font-weight: 800;
+}
+
+.carousel-caption p {
+    font-weight: 500;
+    text-decoration: underline;
+    margin-top: -8px;
+}
+
 
 
 /*

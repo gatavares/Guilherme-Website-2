@@ -1,5 +1,5 @@
-<div class="formacao">
-    <section class="formacaoContent">
+<div class="progra">
+    <section class="programContent">
         <div class="Titles text-center">
             <h2>PERCURSO PROFISSIONAL - PROGRAMAÇÃO</h2>
         </div>
@@ -9,7 +9,7 @@
         <div class="Text">
             <div class="container">
                 <div class="row g-5">
-                    <div class="col-12 col-md-7">
+                    <div class="col-12 col-lg-7">
                         <div class="p-3 bg-ghost">
                             <p>
                                 O <span>Professional World Podcast</span> foi um projeto que eu fundei com mais 5
@@ -31,7 +31,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-5 text-center">
+                    <div class="col-12 col-lg-5 text-center">
                         <div class="p-3 Foto">
                             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                                 <div class="carousel-indicators">
@@ -76,7 +76,7 @@
                     <div class="SubTitles SubTitle2 text-center">
                         <h2>FISIO RESPIRA</h2>
                     </div>
-                    <div class="col-12 col-md-7">
+                    <div class="col-12 col-lg-7">
                         <div class="p-3 bg-ghost">
                             <p>
                                 A <span>Fisio Respira</span> é um projeto revolucionário no mundo, desenvolvido por mim
@@ -86,7 +86,7 @@
                                 personalizado e com avaliações periódicas de todos os utentes.
                             </p>
                             <p>
-                                Este projeto consiste numa aplicação que estará disponível, brevemente, na APPLE Store
+                                Este projeto desenvolvido em 2022, consiste numa aplicação que estará disponível, brevemente, na APPLE Store
                                 (Dispositivos Apple) e na Play Store (Dispositivos Android), e que serve para informar
                                 as pessoas de causas e tratamentos para problemas que necessitem de fisioterapia
                                 respiratória.
@@ -103,11 +103,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-5 text-center">
+                    <div class="col-12 col-lg-5 text-center">
                         <div class="p-3 Foto">
                             <video
                                 src="https://firebasestorage.googleapis.com/v0/b/fisio-appgpsi.appspot.com/o/VideosApresentacao%2FFisioRespira2.mp4?alt=media&token=f6d95d76-f50c-4fb8-b0c1-47dd45976053"
-                                width="500" height="281.25" loop="true" autoplay="autoplay" muted></video>
+                                width="100%" height="85%" loop="true" autoplay="autoplay" muted></video>
                         </div>
                     </div>
                 </div>
